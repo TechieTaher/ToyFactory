@@ -10,7 +10,6 @@ namespace ToyFactory
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to Toy Store");
-            Console.WriteLine("Welcome to Movie List Application");
             bool showMenu = true;
             ProductDomain productDomain = new ProductDomain();
             CustomerDomain customerDomain = new CustomerDomain();
